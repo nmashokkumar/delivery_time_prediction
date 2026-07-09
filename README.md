@@ -1,4 +1,7 @@
 # 🚀 Delivery Time Estimation | Predictive Analytics in Quick Commerce
+<p align="center">
+  <img src="Eta_pred.png" width="100%">
+</p>
 
 # 📌 EXECUTIVE SUMMARY
 Built a machine learning model to improve delivery time (ETA) prediction for a quick commerce platform (Zepto use case), focusing on operational efficiency and customer experience. The project simulates real-world last-mile delivery constraints such as traffic, rider batching, and demand spikes.
